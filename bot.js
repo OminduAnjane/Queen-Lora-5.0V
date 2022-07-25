@@ -324,7 +324,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
         // ==================== End External Plugins ====================
 
         console.log(
-            chalk.blueBright.italic('✅Connecting to Raganork Database...')
+            chalk.blueBright.italic('✅Connecting to Queen Lora Database...')
         );
 
         // ==================== Internal Plugins ====================
@@ -442,7 +442,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
                 if (config.FULLEVA == 'true') {
                     await conn.sendMessage(conn.user.jid, EVA_ACTİON, MessageType.text)
                 } else {
-                    await conn.sendMessage(conn.user.jid, '\n*𝙍𝙖𝙜𝙖𝙣𝙤𝙧𝙠 𝙧𝙪𝙣𝙣𝙞𝙣𝙜 𝙖𝙨 Private!😎*\n\n_Please do not try plugins here. This is your LOG number._\n_You can try commands to any chat :)_\n\n*Your bot working as private. To change it, use* _.setvar WORK_TYPE:public_\n\n*Killadism never ends!*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '\n*Queen Lora 𝙧𝙪𝙣𝙣𝙞𝙣𝙜 𝙖𝙨 Private!😎*\n\n_Please do not try plugins here. This is your LOG number._\n_You can try commands to any chat :)_\n\n*Your bot working as private. To change it, use* _.setvar WORK_TYPE:public_\n\n*Killadism never ends!*', MessageType.text);
                 }
                 await git.fetch();
                 var commits = await git.log([config.BRANCH + '..origin/' + config.BRANCH]);
