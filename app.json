@@ -1,15 +1,15 @@
 {
-    "name": "Raganork Whatsapp BOT",
-    "description": "Raganork bot - Edited from Whatsasena public.  Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
+    "name": "Queen Lora Whatsapp BOT",
+    "description": "Queen lora 5.0V bot - Edited from Whatsasena public.  Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
     "logo": "https://github.com/souravkl11/raganork/raw/master/New%20logo.jpg",
-    "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
+    "keywords": ["whatsapp", "userbot", "Asena", "Queen Lora", "bot", "api", "ai"],
     "repository": "https://github.com/souravkl11/raganork",
     "website":   "https://t.me/phaticusthiccy",
     "success_url": "https://t.me/AsenaSupport",
     "stack": "container",
     "env": {
         "RAGANORK_CODE": {
-            "description": "Raganork code (QR scan cheythappo kittiya code). Type here yours Raganork code.",
+            "description": "Queen Lora code (QR scan cheythappo kittiya code). Type here yours Queen Lora code.",
             "required": true
         },
         "SUDO": {
@@ -111,7 +111,8 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "\n ```Killadism never ends !!!```\n\n```Type``` *.assist* ```for commands```\n\n```𝐑𝐀𝐆𝐀𝐍𝐎𝐑𝐊```\n\n *Coded by Souravkl11*\n\n```Contact owner: wa.me/91xxxxxxxxxx```"
+            "value": "\n ```Killadism never ends !!!```\n\n```Type``` *.assist* ```for commands```\n\n``'
+            Queen Lora```\n\n *Coded by Omindu Anjana*\n\n```Contact owner: wa.me/94760510568```"
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
@@ -170,7 +171,7 @@
         "BOT_NAME": {
             "description": "heading for .assist command reply",
             "required": false,
-            "value": "•━━━━╼⤏𝐑𝐀𝐆𝐀𝐍𝐎𝐑𝐊⤎╾━━━•"
+            "value": "•━━━━╼⤏🅀🅄🄴🄴🄽 🄻🄾🅁🄰⤎╾━━━•"
              
         }
     },
