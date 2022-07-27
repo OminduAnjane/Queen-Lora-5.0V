@@ -111,7 +111,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "\n ```Killadism never ends !!!```\n\n```Type``` *.assist* ```for commands```\n\n``'
+            "value": "\n ```Killadism never ends !!!```\n\n```Type``` *.assist* ```for commands```\n\n``
             Queen Lora```\n\n *Coded by Omindu Anjana*\n\n```Contact owner: wa.me/94760510568```"
         },
         "BAN_MESSAGE": {
