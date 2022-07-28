@@ -3,7 +3,7 @@
     "description": "Queen lora 5.0V bot - Edited from Whatsasena public.  Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
     "logo": "https://github.com/souravkl11/raganork/raw/master/New%20logo.jpg",
     "keywords": ["whatsapp", "userbot", "Asena", "Queen Lora", "bot", "api", "ai"],
-    "repository": "https://github.com/souravkl11/raganork",
+    "repository": "https://github.com/OMINDUANJANA/Queen-Lora-5.0V",
     "website":   "https://t.me/phaticusthiccy",
     "success_url": "https://t.me/AsenaSupport",
     "stack": "container",
@@ -165,7 +165,7 @@
             "value": "default"
         },   
         "TAG_REPLY": {
-            "description": "Enter jid of your number so that you get a audio reply when metioned example - 91xxxxxxxxxx@s.whatsapp.net - for india",
+            "description": "Enter jid of your number so that you get a audio reply when metioned example - 94xxxxxxxxxx@s.whatsapp.net - for Sri Lanka",
             "required": false    
         },
         "BOT_NAME": {
